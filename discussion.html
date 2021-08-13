@@ -1,0 +1,39 @@
+---
+title: Discussion
+description: Thoughts on an equitable world
+layout: default
+---
+
+
+{% if site.data.menu and site.paginate and site.paginate_path and paginator.page > 1 %}
+  {% include menu.html %}
+{% elsif site.paginate and site.paginate_path and paginator.page > 1 %}
+  {% include back-link.html %}
+{% else %}
+  <header class="site-masthead">
+    {% include menu.html %}
+      <h1>
+        {% page.title %}
+      </h1>
+      <h2>
+        {% page.description %}
+      </h2>
+  </header>
+{% endif %}
+
+<main class="home" id="main" role="main" aria-label="Content">
+
+  <h1 class="content-title divided">
+      Contents
+  </h1>
+
+    <ul class="post-list">
+      {% for post in site.posts %}
+        {% if post.category == "discussion" %}
+          {% include post-list-item.html %}
+        {% endif %}
+      {% endfor %}
+    </ul>
+
+
+</main>
