@@ -17,7 +17,7 @@ title: The Leftwardist
 email: hello@patdryburgh.com
 description: >- # this means to ignore newlines until "baseurl:"
   make the world more equitable, any bit at a time
-baseurl: "/hitchens" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://patdryburgh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 twitter_username: leftwardist
@@ -43,3 +43,7 @@ plugins:
 
 paginate: 3
 paginate_path: "/page/:num/"
+
+sass:
+  sass_dir: _sass
+  style: compressed
