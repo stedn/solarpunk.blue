@@ -21,6 +21,21 @@
   text-align: center;
 }
 
+.post > .title {
+  font-size: 2em;
+  max-width: 48rem;
+  padding: 1em 1em 0;
+  text-align: center;
+  margin: auto;
+}
+
+.post > .subtitle {
+  font-size: 1em;
+  max-width: 48rem;
+  text-align: center;
+  margin: 0 auto 3em ;
+}
+
 .post p {
   text-align: justify;
   text-indent: 1.5em;
