@@ -1,5 +1,5 @@
 ---
-title: "Why exhorbitant fines don't make sense for indvidual crimes"
+title: "Should an indivual have to pay the damages if they cause a natural disaster?"
 layout: post
 author: "Will Stedden"
 category: commentary
