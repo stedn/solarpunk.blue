@@ -1,5 +1,5 @@
 ---
-title: Discussion
+title: Commentary
 layout: default
 ---
 
@@ -12,7 +12,7 @@ layout: default
   <header class="site-masthead">
     {% include menu.html %}
       <h1>
-        Discussion
+        Commentary
       </h1>
       <h2>
         Thoughts on an equitable world
@@ -28,7 +28,7 @@ layout: default
 
     <ul class="post-list">
       {% for post in site.posts %}
-        {% if post.category == "discussion" %}
+        {% if post.category == "commentary" %}
           {% include post-list-item.html %}
         {% endif %}
       {% endfor %}

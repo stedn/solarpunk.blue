@@ -2,7 +2,7 @@
 title: "Public Lands show Socialism Works"
 layout: post
 author: "Will Stedden"
-category: discussion
+category: commentary
 ---
 
 

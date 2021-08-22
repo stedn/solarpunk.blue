@@ -3,15 +3,8 @@ layout: post
 title: About
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+The Leftwardist is stories to imagine an equitable and sustainable world. Authors write social commentary about the ways our current societal inequities are detrimental to humanity's common well-being and speculative fiction about the ways we could reduce these inequities, live in balance with nature and create a world that lets all people enjoy life for generations to come.
 
-<figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
-  <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
-  </figcaption>
-</figure>
+Our goal is to shift people's attitudes towards a more egalitarian society in balance with the natural limits of our planet.  We seek to propagate stories and ideas centered on transitioning to a fair and sustainable world.  We seek to do this by making people think of all the small assumptions they make about where we are in humanity's development and what changes&mdash;small and large&mdash;we can make to move our world forward into a better future.
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
-
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+> All works are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 2.0 Generic License. You may reproduce and modify as long as it retains an attribution to the original source. Thank you.
