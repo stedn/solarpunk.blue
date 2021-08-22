@@ -17,7 +17,7 @@ title: The Leftwardist
 email: leftwardist@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   make the world more equitable, any bit at a time
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://leftwardist.org" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 twitter_username: leftwardist
