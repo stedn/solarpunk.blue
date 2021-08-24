@@ -1,10 +1,10 @@
-#search {
+#myForm {
   margin: 0 auto 1em auto;
   padding: 0;
   text-align: center;
 }
 
-#search__input {
+#email {
   background: transparent;
   border: 0;
   font: 1em $font-family;
@@ -14,13 +14,29 @@
   border: 1px dashed $text-color;
 }
 
-#search button[type="submit"] {
+#myForm #mySubmit {
   background: $brand-color;
   color: $text-color;
   font-family: $font-family;
   font-size: 1em;
   padding: .25em;
   cursor: pointer;
+}
+
+#myThanks {
+  margin: 0 auto 1em auto;
+  padding: 0;
+  text-align: center;
+}
+
+#myThanks p{
+  background: transparent;
+  border: 0;
+  font: 1em $font-family;
+  padding: .25em;
+  color: $text-color;
+  text-align: center;
+  border: 1px dashed $text-color;
 }
 
 ::-webkit-input-placeholder {
