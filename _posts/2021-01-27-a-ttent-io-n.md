@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "a.ttent.io/n"
+subtitle: "a short story for our fractured minds"
 author: "Terise Cruven"
 category: fiction
 ---
