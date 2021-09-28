@@ -1,22 +1,21 @@
 ---
 layout: post
-title: "Class Warfare Chess Prototype"
+title: "Class Warfare Chess"
+subtitle: "Chess where the pawns fight back."
 author: "Will Stedden"
 category: commentary
 ---
 
-##### This post is out of date. There is a newer, better version of Class Warfare Chess described in <a href="">this post</a>
 
+What do you see when you look at a chessboard?  Two rows of expendable pawns face off to protect the interests of the nobility, convinced to fight solely because they happen to be a different color. All sacrificing everything to protect a bumbling ineffectual king.  The game itself is a platform for the kind of society our rulers want.  All of us regular people convinced to fight each other for the luxury of a few.
 
-The narrative embedded in the classic chess board is obvious. Two rows of unskilled and expendable pawns face off to protect the interests of the more talented nobility. All sacrificing everything to protect a bumbling ineffectual king.
+Well not anymore. It’s time for the pawns to unite and take on our real oppressors: the capitalist class.
 
-Well not anymore. It’s time to flip the tables.
-
-I wrote new rules for chess that pits the pawns against the nobles. But in this game, the nobles only maintain their special moves if they can keep the pawns in their place. You can play the game online with a friend here. Read on to learn more about the rules.
+I wrote new rules for chess that pits the pawns against the noble pieces. And just like in life, in this game, the nobles only maintain their special moves if they can keep the pawns in their place. You can play the game online at <a href="https://chess.leftwardist.org">chess.leftwarist.org</a>. Read on to learn more about the rules.
 
 #### The Rules of the Game
 
-Here are the rules we’ve come up with for the first edition.
+There are The objective of the Capitalist
 
 1. The game is played on only one half of the board (8x4), with one row of proletariat pieces (pawns) on one side and the opposite color's bourgeoisie pieces (non-pawns) on the other side.
 
@@ -109,17 +108,6 @@ The first lesson is that the special abilities that we seem to ascribe to our ru
 
 The second lesson that I wanted to show was the focus on artificial political ties in standard chess. In regular chess, pawns fight for the king of the same color, which is the same way our real-life social and political tribalism works. These distinctions mask the great similarity between working people around the world. A working class person in the US is way more similar to a working class person in China than either are to the people who rule over them, but political divisions are drawn so that we don’t see our universal humanity. Similarly the divisions between working class Republican and Democratic also mask our shared struggle to overcome our exploitation.
 
-This lesson becomes even more clear in the advanced version of the game. In the advanced version, you actually play with the whole board, but the black and white pieces don’t fight anymore: it’s all the pawns vs all the masters.
-
-<figure>
-  <img alt="Class Warfare Chess Board" src="/assets/images/2021/chess9.jpeg" />
-  <figcaption>
-    Full Board
-  </figcaption>
-</figure>
-
-I haven’t yet built an online version with that format, but if you have your own chessboard, you can play it using the same rules defined above. The only modification is that any of the bourgeoisie pieces can move to either side while the proletariat can’t pass the central line. The implication in this version is that the proletariat from all corners of the world need to come together to bring down the ruling class.
-
 ### Onward Comrades!
 
-We just invented this game and, as such, we don’t fully understand all its nuances. We expect over time we’ll modify the rules to optimize play. Make sure to let us know how it goes for you.
+We just invented this game and, as such, we don’t fully understand all its nuances. We hope to build strategy guides over time and expect to maybe modify the rules somewhat to optimize play. If you wnat to share your experiences with the game come hang out with us on the <a href="https://discord.gg/yZFgH8TH">Leftwardist Forum</a> on Discord.
