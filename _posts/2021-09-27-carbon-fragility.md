@@ -13,7 +13,7 @@ I've developed a theory to explain this, and I've termed it Carbon Fragility, an
 
 Just as in white fragility, the way carbon fragility manifests can take many forms, from frozen silence to outbursts of rage. And also just like with white fragility, the fragility response is perhaps the most dangerous roadblock to changing harmful behavior. But fortunately, thanks to the incredible work done by social justice advocates toward unpacking and answering how white fragility can be overcome, I think this framing could help us approach a way forward for changing minds about our role in reducing environmental harm.
 
-### Personal Experience
+#### Personal Experience
 
 The inspiration for carbon fragility came from my personal experience trying to communicate to others how I've changed my lifestyle to be more environmentally conscientious.  I'm currently on a bicycle tour around the United States, and during this trip I've met and talked with many many people who are interested in my travels.  During these conversations, I've noticed a very specific pattern.  If I only talk about the adventure or the cost effectiveness of bike touring, I get great engagement from the people I'm talking to, and we can have a several minute conversation about bike touring.
 
