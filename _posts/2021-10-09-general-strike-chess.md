@@ -63,7 +63,7 @@ For the most part the pieces move the same as in regular chess, but there are im
 
 #### Scoring
 
-As the game is played, a score is tallied by counting how many factories are running at the end of each turn.  For each column with both factories occupied the Capitalists get 1 point, and for each with at least 1 unoccupied, the Workers get a point.  Often 2 games will be played, exchanging who is Capitalist and who is Worker.  If the Worker this case, the player with the hoigher score as Capi
+As the game is played, a score is tallied by counting how many factories are running at the end of each turn.  For each column with both factories occupied the Capitalists get 1 point, and for each with at least 1 unoccupied, the Workers get a point.  Often 2 games will be played, exchanging who is Capitalist and who is Worker.  If the Workers defeat Capitalism both times, then the player with the higher score as Capitalist is the overall winner.
 
 #### Example Games
 
