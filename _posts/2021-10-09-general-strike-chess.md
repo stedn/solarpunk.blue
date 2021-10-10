@@ -52,10 +52,11 @@ For the most part the pieces move the same as in regular chess, but there are im
 <img style="max-width:300px;" alt="General Strike Chess Nobles Convert to Pawns" src="/assets/images/2021/chess_noble.gif" />
 
 2. Worker pieces (red pawns) mostly move like regular pawns (move 1 space, attack on the diagonal) from the outside inward.  However, once a pawn reaches the middle two rows (rows 4 and 5) they switch from moving like pawns to moving like a king (move or attack in any direction). If the pawn in the center rows then moves back out to either of the outside 3 rows (1-3 or 6-8), it goes back to acting like a pawn on that side again.  (Note that when a Capitalist piece is converted to a pawn it doesn't move like a king in the center rows.)
-<img alt="General Strike Chess Pawn Motion" src="/assets/images/2021/chess_pawn.gif" />
+<img style="max-width:300px;" alt="General Strike Chess Pawn Motion" src="/assets/images/2021/chess_pawn.gif" />
 
 
 3. Importantly, when Capitalist pieces "take" Worker pawns, the pawns aren't necessarily removed from the board. If the pawn is taken in a column with an unoccupied factory, then the pawn is immediately returned to that factory (if both factories are unoccupied it is returned to row 1 by default).  However, if the pawn is taken in a column where the factories are already both occupied, then the pawn IS removed from the game.  When Worker pieces take Capitalist pieces, the Capitalist piece is removed from the game.
+<img style="max-width:300px;" alt="General Strike Chess Taking a Pawn" src="/assets/images/2021/chess_take_pawn.gif" />
 
 4. Finally, the king is not affected by the factories, and always continues to move as a standard king. However, the king is not allowed to move outside of the middle two rows of the gameboard (rows 4 and 5).
 
