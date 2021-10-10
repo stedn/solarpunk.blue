@@ -26,6 +26,7 @@ I wrote new rules for chess that pits the pawns against the noble pieces. And ju
 
 The rules of General Strike Chess are derived from standard chess, with some notable exceptions. The pieces move in largely the same way, but now the pawns are all one team and nobility pieces (rook, knight, bishop, queen, and king) are all the other.  
 
+
 #### Initial Setup
 
 The game is played on a standard chess board except the pieces are rearranged, with a row of Worker pieces (pawns) along each outside edge (rows 1 and 8) and the Capitalist pieces (non-pawns) in two rows down the center (rows 4 and 5). When set up there will be 4 of each rook, knight and bishop, 2 queens, and a single king.
@@ -37,29 +38,31 @@ The game is played on a standard chess board except the pieces are rearranged, w
   </figcaption>
 </figure>
 
+#### Objective
+
+The main objective for the Worker is to take the Capitalist king (AKA ending capitalism itself). The objective for the Capitalist team is to force the worker team to a forfeit (AKA "get back to work").
+
+But really, the meta-objective of this game is to get the word out about taking back some control of working people's lives by a real-life general strike.  There is a planned <a href="https://www.octoberstrike.com/">General Strike on October 15th</a>, and I hope that this game helps people bring up the idea of a general strike with their friends.
+
 #### Moves
 
 For the most part the pieces move the same as in regular chess, but there are important differences that make this game very different.
 
-1. Proletariat pieces (pawns) mostly move like regular pawns (move 1 space, attack on the diagonal). At the game start, there are two rows of pawns each on opposite sides of the board and each pawn moves from the outside inward.  However, once a pawn reaches the middle two rows (rows 4 and 5) they switch from moving like pawns to moving like a king (move or attack in any direction). If the pawn in the center rows then moves back out to either of the outside 3 rows (1-3 or 6-8), it goes back to acting like a pawn on that side again.
+1. Capitalist pieces (non-pawns), move like they do in regular chess, and Worker pieces (pawns) move like regular pawns. At first glance it would seem like the Capitalist pieces have a huge advantage, but there is a catch! In each column, if the outside two squares aren't both filled, then any capitalist piece in that column converts to moving just like a pawn. We call the outside two squares of each column the "factories." So if a single pawn has moved out of its factory then the capitalist pieces in that column move like pawns. One important thing to note is that the factory squares don't have to be occupied by a worker piece for them to be "running." Even a Capitalist piece could move into the factory squares and cause the other Capitalist pieces in that column to operate normally again.
+<img style="max-width:300px;" alt="General Strike Chess Nobles Convert to Pawns" src="/assets/images/2021/chess_noble.gif" />
+
+2. Worker pieces (red pawns) mostly move like regular pawns (move 1 space, attack on the diagonal) from the outside inward.  However, once a pawn reaches the middle two rows (rows 4 and 5) they switch from moving like pawns to moving like a king (move or attack in any direction). If the pawn in the center rows then moves back out to either of the outside 3 rows (1-3 or 6-8), it goes back to acting like a pawn on that side again.  (Note that when a Capitalist piece is converted to a pawn it doesn't move like a king in the center rows.)
 <img alt="General Strike Chess Pawn Motion" src="/assets/images/2021/chess_pawn.gif" />
 
 
-2. Capitalist pieces (non-pawns), move like they do in regular chess (except no [castling](https://en.wikipedia.org/wiki/Castling)). At first glance it would seem like the Capitalist pieces have a huge advantage, but there is a catch! In each column, if the outside two squares aren't both filled, then any capitalist piece in that column converts to moving just like a pawn. We call the outside two squares of each column the "factories." So if a single pawn has moved out of its factory then the capitalist pieces in that column move like pawns. One important thing to note is that the factory squares don't have to be occupied by a worker piece for them to be "running." Even a Capitalist piece could move into the factory squares and cause the other Capitalist pieces in that column to operate normally again.
-<img style="max-width:300px;" alt="General Strike Chess Nobles Convert to Pawns" src="/assets/images/2021/chess_noble.gif" />
+3. Importantly, when Capitalist pieces "take" Worker pawns, the pawns aren't necessarily removed from the board. If the pawn is taken in a column with an unoccupied factory, then the pawn is immediately returned to that factory (if both factories are unoccupied it is returned to row 1 by default).  However, if the pawn is taken in a column where the factories are already both occupied, then the pawn IS removed from the game.  When Worker pieces take Capitalist pieces, the Capitalist piece is removed from the game.
+
+4. Finally, the king is not affected by the factories, and always continues to move as a standard king. However, the king is not allowed to move outside of the middle two rows of the gameboard (rows 4 and 5).
 
 
-3. Importantly, when capitalist pieces "take" worker pawns, the pawns aren't necessarily removed from the board. If the pawn is taken in a column with an unoccupied factory, then the pawn is immediately returned to that factory (if both factories are unoccupied it is returned to row 1 by default).  However, if the pawn is taken in a column where the factories are already both occupied, then the pawn IS removed from the game.  When Worker pieces take Capitalist pieces, the capitalist piece is removed from the game.
+#### Scoring
 
-4. Finally, the king is not effected by the factories, and always continues to move as a standard king. However, the king is not allowed to move outside of the middle two rows of the gameboard (rows 4 and 5).
-
-
-#### Objective
-
-The main objective for the Worker is to take the Capitalist king (AKA ending capitalism itself). The objective for the capitalist team is to force the worker team to a forfeit (AKA "get back to work").
-As the game is played, a score is tallied by counting how many factories are running at the end of each turn.  For each column with both factories occupied the Capitalists get 1 point, and for each with at least 1 unoccupied, the Workers get a point.  Often 2 games will be played, exchanging who is Capitalist and who is Worker, and if Capitalism falls in both, the high score for the Capitalist team can be considered the winner.
-
-But really, the meta-objective of this game is to get the word out about taking back some control of working people's lives by a real-life general strike.  There is a planned <a href="https://www.octoberstrike.com/">General Strike on October 15th</a>, and I hope that this game helps people bring up the idea of a general strike with their friends.
+As the game is played, a score is tallied by counting how many factories are running at the end of each turn.  For each column with both factories occupied the Capitalists get 1 point, and for each with at least 1 unoccupied, the Workers get a point.  Often 2 games will be played, exchanging who is Capitalist and who is Worker.  If the Worker this case, the player with the hoigher score as Capi
 
 #### Example Games
 
