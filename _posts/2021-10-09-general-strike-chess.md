@@ -20,7 +20,7 @@ And sadly, that's more or less the way our world works to this day, except inste
 
 Well not anymore. It’s about time for the pawns to unite and take on our real oppressors: the capitalist owners.
 
-I wrote new rules for chess that pits the pawns against the noble pieces. And just like in life, in this game the nobles only maintain their special moves if they can keep the pawns in their place. You can play the game with a friend online at <a href="https://chess.leftwardist.org">chess.leftwardist.org</a> or join our <a href="https://discord.gg/yZFgH8TH">discord</a> to find other comrades to play with. Read on to learn more about the rules and philosophy behind the game.
+I wrote new rules for chess that pits the pawns against the noble pieces. And just like in life, in this game the nobles only maintain their special moves if they can keep the pawns in their place. You can play the game with a friend online at <a href="https://chess.leftwardist.org">chess.leftwardist.org</a> or join our <a href="https://discord.gg/MP5vJAQ2XM">discord</a> to find other comrades to play with. Read on to learn more about the rules and philosophy behind the game.
 
 ### The Rules of the Game
 
@@ -83,7 +83,7 @@ The second lesson that I wanted to show was the focus on artificial political ti
 
 ### Onward Comrades!
 
-Although the game is new and we don’t fully understand all its nuances, we hope to start to build more strategy around it. If you want to share your experiences with the game, come hang out with us on the <a href="https://discord.gg/yZFgH8TH">Leftwardist Forum</a> on Discord.
+Although the game is new and we don’t fully understand all its nuances, we hope to start to build more strategy around it. If you want to share your experiences with the game, come hang out with us on the <a href="https://discord.gg/MP5vJAQ2XM">Leftwardist Forum</a> on Discord.
 
 I also really hope that this game can help inspire more people to get involved with the <a href="https://www.octoberstrike.com/">General Strike going on October 15th</a>. I plan to stop being involved in any economic activity on that date, and I'm hopeful a lot of people will end up doing the same.
 
