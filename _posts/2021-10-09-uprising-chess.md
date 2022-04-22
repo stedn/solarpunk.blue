@@ -71,7 +71,7 @@ Those are all the basic rules of gameplay.  Here's an example game:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DRAcs98p1aA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-If you're ready to play, you can go to [chess.leftwardist.org](https://chess.leftwardist.org) and start a game with a friend. Read on to learn more about the meaning behind the game.
+If you're ready to play, you can go to [uprisingchess.web.app](https://uprisingchess.web.app) and start a game, either against the AI or with a friend. Read on to learn more about the meaning behind the game.
 
 ### The Philosophy of Uprising Chess
 
