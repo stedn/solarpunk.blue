@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Three parts to changing the world"
+title: "Leftwardist Takes: Three parts to changing the world"
 subtitle: "Where we are. Where we want to be. And how to get there."
 author: "Will Stedden"
 category: commentary
 ---
+
+_Note: This site started as The Leftwardist, a project exploring ideas in leftist politics.  After a year of that exploration, I had decided that my preferred leftist streak was solarpunk, and that I wanted to work to promote those ideas through this blog. The articles from the Leftwardist have been pulled over as an archive of the origins of this blog._
 
 
 The process of changing the world has 3 interrelated parts:

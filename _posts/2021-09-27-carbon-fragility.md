@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Carbon Fragility"
+title: "Leftwardist Takes: Carbon Fragility"
 subtitle: "White fragility for climate change."
 author: "Will Stedden"
 category: commentary
 ---
+
+_Note: This site started as The Leftwardist, a project exploring ideas in leftist politics.  After a year of that exploration, I had decided that my preferred leftist streak was solarpunk, and that I wanted to work to promote those ideas through this blog. The articles from the Leftwardist have been pulled over as an archive of the origins of this blog._
 
 
 Our climate is changing, possibly irreversibly. When asked in <a href="https://www.pewresearch.org/fact-tank/2020/04/21/how-americans-see-climate-change-and-the-environment-in-7-charts/">polls</a>, most everyone understands this. We even know how to stop it and yet in our day-to-day public interactions, very few people seem to be willing to talk about any of this.
