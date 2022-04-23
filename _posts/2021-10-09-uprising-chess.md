@@ -20,7 +20,7 @@ And sadly, that's more or less the way our world works to this day, except inste
 
 Well not anymore. It’s about time for the pawns to unite and take on our real oppressors: the capitalist owners.
 
-I wrote new rules for a chess game called that pits the pawns against the noble pieces. And just like in life, in this game the nobles only maintain their special moves if they can keep the pawns in their place. You can play the game with a friend online at <a href="https://uprisingchess.web.app.org">uprisingchess.web.app</a> or join our <a href="https://discord.gg/MP5vJAQ2XM">discord</a> to find other comrades to play with. Read on to learn more about the rules and philosophy behind the game.
+I wrote new rules for a chess game called Uprising Chess that pits the pawns against the noble pieces. And just like in life, in this game the nobles only maintain their special moves if they can keep the pawns in their place. You can play the game with a friend online at <a href="https://uprisingchess.web.app.org">uprisingchess.web.app</a> or join our <a href="https://discord.gg/MP5vJAQ2XM">discord</a> to find other comrades to play with. Read on to learn more about the rules and philosophy behind the game.
 
 ### The Rules of the Game
 
