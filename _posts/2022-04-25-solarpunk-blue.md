@@ -12,7 +12,7 @@ I've become a solarpunk because I think this optimism is essential. In fact, I t
 ) in the 20th century, is the one thing that has stagnated humanity. 
 
 <figure>
-  <img alt="graph of word usage from Google N-gram for optimist and realist" src="/assets/images/2022/realism_optimism.jpg" />
+  <img width="50%" alt="graph of word usage from Google N-gram for optimist and realist" src="/assets/images/2022/realism_optimism.jpg" />
   <figcaption>
     Word usage of "optimist" peaked in the 1920s, while usage of "realist" continued to increase and accelerated in the 1980s.
   </figcaption>
