@@ -159,3 +159,12 @@ figcaption {
     margin-top: 0;
   }
 }
+
+.fa {
+  color: $muted-text-color;
+  text-decoration: none;
+}
+
+.fa:hover{
+  color: $text-color;
+}
