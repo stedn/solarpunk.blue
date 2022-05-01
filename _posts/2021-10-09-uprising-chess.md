@@ -83,7 +83,7 @@ The second lesson that I wanted to show was the focus on artificial political ti
 
 ### Onward Comrades!
 
-Although the game is new[^2] and we don’t fully understand all its nuances, we hope to start to build more strategy around it. If you want to share your experiences with the game, come hang out with us on the <a href="https://discord.gg/MP5vJAQ2XM">Leftwardist Forum</a> on Discord.
+Although the game is new[^2] and we don’t fully understand all its nuances, we hope to start to build more strategy around it. If you want to share your experiences with the game, come hang out with us on the <a href="https://discord.gg/MP5vJAQ2XM">Solarpunk Blue Forum</a> on Discord.
 
 I also really hope that this game can help inspire more people to get involved with organizing to rise up and start to fight back against the pressures that the ruling class put on our lives.  Capitalism is a tired old system, and it's time for all people to work together to self-govern our economy.
 
