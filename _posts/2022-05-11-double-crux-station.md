@@ -4,12 +4,15 @@ title: "Double Crux Station"
 subtitle: "Philosopher's Governing Assembly"
 author: "Will Stedden"
 category: fiction
+image: /assets/images/2022/20220511_083546_0000.png
 ---
 <br/>
 
 Welcome to Double Crux Station! We are the Philosopher's Governing Assembly, and we're so excited that you'll be joining us to represent your village or neighborhood at the world's first philosophically principled government body.
 
 This welcome packet will help orient you to our humble Station, and delineate the expectations set for you by all the Double Cruxers who came before you. We're grateful that you have decided to participate in the preeminent decision-making institution on the planet, and hope you are proud to be among the most reasoned, compassionate, forward thinking minds of your generation as we attempt to preserve the peace and prosperity of the solarpunk era.
+
+assets/images/2022/20220511_083546_0000.png
 
 ### Accomodations
 We're sure you're anxious to learn more about your living accomodations during your time at Double Crux Station. After all, it's hard to make good decisions if you don't know where you'll be sleeping at night or how you're going to eat.
