@@ -6,9 +6,8 @@ author: "Will Stedden"
 category: fiction
 image: /assets/images/2022/20220511_083546_0000.png
 ---
-<br/>
 <figure>
-  <img width="35%" alt="two Ys crossing on insignia" src="/assets/images/2022/20220511_123642_0000.png" />
+  <img width="50%" alt="two Ys crossing on insignia" src="/assets/images/2022/20220511_123642_0000.png" />
   <figcaption>
     Insignia of the Double Crux Assembly
   </figcaption>
