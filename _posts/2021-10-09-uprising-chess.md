@@ -83,7 +83,7 @@ The second lesson that I wanted to show was the focus on artificial political ti
 
 ### Onward Comrades!
 
-Although the game is new[^2] and we don’t fully understand all its nuances, we hope to start to build more strategy around it. If you want to share your experiences with the game, come hang out with us on the <a href="https://discord.gg/MP5vJAQ2XM">Solarpunk Blue Forum</a> on Discord.  And if you really love the game and want to help support its development, feel free to check out our <a href="https://opencollective.com/solarpunk-blue/projects/uprising-chess">OpenCollective page for this project</a>.
+Although the game is new[^2] and we don’t fully understand all its nuances, we hope to start to build more strategy around it. If you really love the game and want to help support its development, feel free to check out our <a href="https://opencollective.com/solarpunk-blue/projects/uprising-chess">OpenCollective page for this project</a>.
 
 I also really hope that this game can help inspire more people to get involved with organizing to rise up and start to fight back against the pressures that the ruling class put on our lives.  Capitalism is a tired old system, and it's time for all people to work together to self-govern our economy.
 

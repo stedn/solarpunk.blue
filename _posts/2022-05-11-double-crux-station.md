@@ -29,7 +29,7 @@ We're sure you're anxious to learn more about your living accomodations during y
 
 The survey of your governing district has been completed. And the results are available for your analysis.
 
-To summarize, 5% of your jurisdiction is currently living below poverty and their median caloric intake is at only 95% the healthy level.  While we absolutely understand that this outcome is not your fault, Double Crux has always honored the rule of living like your community. Therefore, for at least 5% of your time here, you will be required to live in a calorie restricted diet that matches the median person in your jurisdiction. 
+To summarize, 5% of your jurisdiction is currently living below poverty and their median caloric intake is at only 95% the healthy level.  While we absolutely understand that this outcome is not your fault, Double Crux has always honored the rule of living like your community. Therefore, for at least 5% of your time here, you will be required to live in a calorie restricted diet that matches the median person in your jurisdiction.
 
 Fortunately, you're region has no unsheltered homelessness so you will be eligible for full time shelter in any of the housing options available.
 
